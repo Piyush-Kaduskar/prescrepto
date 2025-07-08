@@ -14,7 +14,7 @@ connectDB();
 connectCloudinary();
 
 //allow multiple origins
-const allowedOrigins = ['http://localhost:5174','http://localhost:5173']
+const allowedOrigins = ['http://localhost:5174','http://localhost:5173','https://prescripto-frontend-u86w.onrender.com']
 
 
 //middleware
